@@ -22,7 +22,7 @@ Links to everything can be found on our [downloads page][downloads].
     * **Execute Script API**: Added execute script high-level API for BiDi.
     * **JSpecify Annotations**: Added JSpecify annotations for WebDriver, WebElement, SearchContext, and other interfaces.
     * **Dom Mutation Handler Support**: Added DOM mutation handler support for BiDi.
-    * **Close HttClient on Session Failure**: Ensured HttClient is closed if starting the session fails.
+    * **Close HttpClient on Session Failure**: Ensured HttpClient is closed if starting the session fails.
     * **System Property to Disable Tracing**: Added a system property to disable tracing. ([c8676eff10](https://github.com/SeleniumHQ/selenium/commit/c8676eff107a7e5e617c6fc953baad45305cc680))
     * [See all changes](https://github.com/SeleniumHQ/selenium/blob/trunk/java/CHANGELOG)
 
